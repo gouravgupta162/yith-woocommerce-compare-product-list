@@ -68,7 +68,7 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.upwork.com/profile-portraits/c1FPBbK9r4pZZmMCZuzBFmEZ6mWS86rQ8MjiVu9NjemvOxM8PINz4i5xSuBjHkO8L2" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
