@@ -20,13 +20,13 @@
 <a href="https://steamcommunity.com/profiles/76561198853943473/">
  <img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
-<a href="javascript:void(0)">
+<a href="#">
  <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 </a>
-<a href="javascript:void(0)">
+<a href="#">
  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </a>
-<a href="javascript:void(0)">
+<a href="#">
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
 
