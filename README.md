@@ -18,7 +18,7 @@
     <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1" target="_blank" >Hire Me Now</a>
+	<a target="_blank" href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
   </p>
 </p>
 
@@ -59,6 +59,22 @@
 ## About Author
 
 <img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
+
+<p>
+I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PHP).
+
+✅ TOP-RATED Web Designer and Developer on Upwork.
+✅ Certified by Google Ads Display Network.
+✅ Certified by Template Monster WordPress Pro Level Developer.
+✅ Certified by Template Monster HTML CSS Certification Center.
+✅ Certified by Template Monster WordPress Certification Center.
+✅ Certified by YouTube Music Certification.
+✅ Completed n Number of Design and Development Projects.
+✅ 100% Job Success Rate.
+✅ 5 Star Feedback
+✅ 100% Client Recommendation
+</p>
+ 
  
 **Author Social**
 
@@ -118,6 +134,9 @@
 **Author Gaming**
 
 <a target="_blank" href="https://steamcommunity.com/profiles/76561198853943473/"><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+
+**Freelancing**
+<a target="_blank" href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="steam" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
