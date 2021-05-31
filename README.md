@@ -22,7 +22,7 @@
     <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1">Hire Me Now</a>
+    <a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1" target="_blank" >Hire Me Now</a>
   </p>
 </p>
 
@@ -45,8 +45,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#shortcode">Shortcode</a></li>
+    <li><a href="#usage">Usage</a>
+		<ul>
+		 <li><a href="#shortcode">Shortcode</a></li>
+		</ul>
+	</li>
+   
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -152,9 +156,9 @@ Project Link: [https://github.com/gouravgupta162/yith-woocommerce-compare-produc
 Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more details.
 
 
-*Change Log*
+## Change Log
 
-#### v1.0.0
+#v1.0.0
 
 - Original release
 
