@@ -11,7 +11,6 @@
 <br />
 <p align="center">
   <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">
-    <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s176-c-k-c0x00ffffff-no-rj" alt="Logo" width="80" height="80"  >
     <img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
   </a>
 
@@ -195,4 +194,6 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 [license-url]: https://github.com/gouravgupta162/yith-woocommerce-compare-product-list/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gouravgupta162/
+[youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorB=555
+[youtube-url]: https://www.youtube.com/c/GouravGuptaOfficial/
 [product-screenshot]: images/screenshot.png
