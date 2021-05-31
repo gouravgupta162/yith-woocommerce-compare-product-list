@@ -130,11 +130,11 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 
 **Author Gaming**
 
-<a target="_blank" href="https://steamcommunity.com/profiles/76561198853943473/"><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href="https://steamcommunity.com/profiles/76561198853943473/"><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 
 **Freelancing**
 
-<a target="_blank" href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="steam" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
+<a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="steam" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
