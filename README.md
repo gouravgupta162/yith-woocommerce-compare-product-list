@@ -5,11 +5,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-
 <a href="https://www.youtube.com/c/GouravGuptaOfficial">
  <img alt="youtube subscribers" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
@@ -17,6 +12,9 @@
  <img alt="youtube subscribers" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
   <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">
     <img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
@@ -201,7 +199,5 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 [license-shield]: https://img.shields.io/github/license/gouravgupta162/yith-woocommerce-compare-product-list.svg?style=for-the-badge
 [license-url]: https://github.com/gouravgupta162/yith-woocommerce-compare-product-list/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/gouravgupta162/
-[youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorB=555
-[youtube-url]: https://www.youtube.com/c/GouravGuptaOfficial/
+[linkedin-url]: https://www.linkedin.com/in/gouravgupta162/ 
 [product-screenshot]: images/screenshot.png
