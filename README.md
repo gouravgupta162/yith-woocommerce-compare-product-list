@@ -46,7 +46,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#shortcode">Shortcode</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -116,21 +116,14 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1 - Just Install and activate Requirements plugins and after that activate WSS YITH WC Compare Product List plugin/add-on.
-2 - Use shortcode where ever you need.
+1. Just Install and activate Requirements plugins and after that activate WSS YITH WC Compare Product List plugin/add-on.
+2. Use shortcode where ever you need.
  
 ## Shortcode 
 
 - [yith_woocompare_model_list_button]
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/gouravgupta162/yith-woocommerce-compare-product-list/issues) for a list of proposed features (and known issues).
-
-
-
+ 
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -143,11 +136,10 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+## License 
+					   
+Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE](http://www.gnu.org/licenses/gpl-3.0.html) for more information.
  
 
 <!-- CONTACT -->
@@ -196,5 +188,5 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 [license-shield]: https://img.shields.io/github/license/gouravgupta162/yith-woocommerce-compare-product-list.svg?style=for-the-badge
 [license-url]: https://github.com/gouravgupta162/yith-woocommerce-compare-product-list/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/gouravgupta162/
 [product-screenshot]: images/screenshot.png
