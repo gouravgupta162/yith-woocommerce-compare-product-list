@@ -17,6 +17,7 @@
 <tr>
 <td>
 <a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
+
 Gourav Gupta
 </td>
 <td>
