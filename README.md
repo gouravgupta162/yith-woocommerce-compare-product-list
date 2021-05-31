@@ -21,9 +21,9 @@
 Gourav Gupta
 </td>
 <td>
- <p align="center">
+  
     | Quick View | Slide View | Category Wise Product Compare Wordpress |
-  </p>
+   
 </td>
 </tr>
 </table> 
