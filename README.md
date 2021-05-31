@@ -63,16 +63,16 @@
 <p>
 I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PHP).
 
--✅ TOP-RATED Web Designer and Developer on Upwork.
--✅ Certified by Google Ads Display Network.
--✅ Certified by Template Monster WordPress Pro Level Developer.
--✅ Certified by Template Monster HTML CSS Certification Center.
--✅ Certified by Template Monster WordPress Certification Center.
--✅ Certified by YouTube Music Certification.
--✅ Completed n Number of Design and Development Projects.
--✅ 100% Job Success Rate.
--✅ 5 Star Feedback
--✅ 100% Client Recommendation
+- ✅ TOP-RATED Web Designer and Developer on Upwork.
+- ✅ Certified by Google Ads Display Network.
+- ✅ Certified by Template Monster WordPress Pro Level Developer.
+- ✅ Certified by Template Monster HTML CSS Certification Center.
+- ✅ Certified by Template Monster WordPress Certification Center.
+- ✅ Certified by YouTube Music Certification.
+- ✅ Completed n Number of Design and Development Projects.
+- ✅ 100% Job Success Rate.
+- ✅ 5 Star Feedback
+- ✅ 100% Client Recommendation
 </p>
  
  
@@ -143,7 +143,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 The WSS YITH WC Compare Product List add-on lets your customers allow to quick view there compare product list based on category wise. It will working only with YITH Woocommerce Compare plugin.
 
