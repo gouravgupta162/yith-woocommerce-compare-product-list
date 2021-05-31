@@ -72,13 +72,13 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
  
 **Author Social**
 
-<a target="_blank" href="mailto:gouravgupta162@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.youtube.com/c/GouravGuptaOfficial"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/gouravgupta162/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/gouravgupta162/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/gouravguptaofficial/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/gouravgofficial"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a target="_blank" href="https://wa.me/919466409660?text=YITH-Woocommerce-Compare-Product-List-Add-on%20Hello%20Gourav"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:gouravgupta162@gmail.com" target="_blank" ><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/GouravGuptaOfficial" target="_blank" ><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gouravgupta162/" target="_blank" ><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/gouravgupta162/" target="_blank" ><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/gouravguptaofficial/" target="_blank" ><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/gouravgofficial" target="_blank" ><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://wa.me/919466409660?text=YITH-Woocommerce-Compare-Product-List-Add-on%20Hello%20Gourav" target="_blank" ><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Author Designing(UI/UX) Skills**
 
