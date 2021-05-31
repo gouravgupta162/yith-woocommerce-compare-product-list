@@ -79,11 +79,7 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
     <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">View Demo</a>
-    ·
-    <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">Report Bug</a>
-    ·
-    <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">Request Feature</a>
+    <a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1">Hire Me Now</a>
   </p>
 </p>
 
