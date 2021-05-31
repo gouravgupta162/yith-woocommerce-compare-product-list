@@ -106,7 +106,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 <a href="#"><img alt="SWIFT" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
 <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/></a>
-<a href="#"><img alt="XCODE" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<a href="#"><img alt="XCODE" src="https://img.shields.io/badge/Xcode-007ACC?style=style=for-the-badge&logo=Xcode&logoColor=white"/></a>
 
 **Author Database Skills**
 
