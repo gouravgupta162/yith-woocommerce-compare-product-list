@@ -2,10 +2,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 **Author Social**
+
 <a href="mailto:gouravgupta162@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/GouravGuptaOfficial"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gouravgupta162/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,7 +12,9 @@
 <a href="https://www.instagram.com/gouravguptaofficial/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/gouravgofficial"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://wa.me/919466409660?text=YITH-Woocommerce-Compare-Product-List-Add-on%20Hello%20Gourav"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 **Author Skills**
+
 <a href="#"><img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/></a>
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
@@ -39,13 +40,13 @@
 <a href="#"><img alt="RTX2060" src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <a href="#"><img alt="Intel" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="#"><img alt="Apple-Macbook-Air" src="https://img.shields.io/badge/Apple-MacBook_Air_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
 **Author Gaming**
+
 <a href="https://steamcommunity.com/profiles/76561198853943473/"><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 
 
 
-
- 
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">
