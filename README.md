@@ -6,7 +6,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">
+  <a href="#yith-woocommerce-compare-product-list">
     <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s88-c-k-c0x00ffffff-no-rj" alt="Logo"  >
   </a>
 
@@ -15,7 +15,7 @@
   <p align="center">
     | Quick View | Slide View | Category Wise Product Compare Wordpress |
     <br />
-    <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template"><strong>Explore the docs »</strong></a>
+    <a href="#yith-woocommerce-compare-product-list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 	<a target="_blank" href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
@@ -64,14 +64,23 @@
 I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PHP).
 
 ✅ TOP-RATED Web Designer and Developer on Upwork.
+
 ✅ Certified by Google Ads Display Network.
+
 ✅ Certified by Template Monster WordPress Pro Level Developer.
+
 ✅ Certified by Template Monster HTML CSS Certification Center.
+
 ✅ Certified by Template Monster WordPress Certification Center.
+
 ✅ Certified by YouTube Music Certification.
+
 ✅ Completed n Number of Design and Development Projects.
+
 ✅ 100% Job Success Rate.
+
 ✅ 5 Star Feedback
+
 ✅ 100% Client Recommendation
 </p>
  
@@ -114,6 +123,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 <a href="#"><img alt="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 
 **Author Cross Platform Skills**
+
 <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/></a>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 
@@ -136,6 +146,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 <a target="_blank" href="https://steamcommunity.com/profiles/76561198853943473/"><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 
 **Freelancing**
+
 <a target="_blank" href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="steam" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
 
 <!-- ABOUT THE PROJECT -->
