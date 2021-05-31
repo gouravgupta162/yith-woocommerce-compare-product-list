@@ -1,4 +1,4 @@
-# WSS YITH Woocommerce Compare Product List | Quick View
+# YITH Woocommerce Compare Product List
 Quick View | Slide View | Category Wise Product Compare
 
 The WSS YITH WC Compare Product List add-on lets your customers allow to quick view there compare product list based on category wise. It will working only with YITH Woocommerce Compare plugin.
