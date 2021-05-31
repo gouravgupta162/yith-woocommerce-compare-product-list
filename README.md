@@ -1,60 +1,3 @@
-# YITH Woocommerce Compare Product List
-Quick View | Slide View | Category Wise Product Compare
-
-#Description
-
-The WSS YITH WC Compare Product List add-on lets your customers allow to quick view there compare product list based on category wise. It will working only with YITH Woocommerce Compare plugin.
-
-Website: https://www.upwork.com/freelancers/~01d2123e60c93d83a1
-Contributors: Gourav Gupta
-Requires at least: 4.5
-Tested up to: 5.7
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-#Requirements
-
-Wordpress Latest Version
-Woocommerce Latest Version
-YITH Woocommerce Compare / YITH Woocommerce Compare Premium Plugin
-
-#How to use
-1 - Just Install and activate Requirements plugins and after that activate WSS YITH WC Compare Product List plugin/add-on.
-2 - Use shortcode where ever you need.
- 
-#Shortcode 
-
-- [yith_woocompare_model_list_button]
-
-#Support
-
-Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more details.
-
-
-*Change Log*
-
-#### v1.0.0
-- Original release
-
-
-
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -71,7 +14,7 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YITH Woocommerce Compare Product List</h3>
+  <h3 align="center"># YITH Woocommerce Compare Product List</h3>
 
   <p align="center">
     | Quick View | Slide View | Category Wise Product Compare Wordpress |
@@ -118,23 +61,23 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The WSS YITH WC Compare Product List add-on lets your customers allow to quick view there compare product list based on category wise. It will working only with YITH Woocommerce Compare plugin.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should element DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Of course, no one template will serve all projects since your needs may be different. So I was created this add-on/plugin which is compatiable with YITH Woocommerce Compare and show list of products which user already added in compare list.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Wordpress](https://wordpress.com/)
+* [Woocommerce](https://woocommerce.com/)
+* [YITH Woocommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/)
 
 
 
@@ -173,10 +116,12 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1 - Just Install and activate Requirements plugins and after that activate WSS YITH WC Compare Product List plugin/add-on.
+2 - Use shortcode where ever you need.
+ 
+## Shortcode 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+- [yith_woocompare_model_list_button]
 
 
 <!-- ROADMAP -->
@@ -203,15 +148,23 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
+ 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@gouravgofficial](https://twitter.com/gouravgofficial) - gouravgupta162@gmail.com
+Gourav Gupta - [@gouravgofficial](https://twitter.com/gouravgofficial) - gouravgupta162@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/gouravgupta162/yith-woocommerce-compare-product-list](https://github.com/gouravgupta162/yith-woocommerce-compare-product-list)
+
+Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more details.
+
+
+*Change Log*
+
+#### v1.0.0
+
+- Original release
 
 
 
@@ -228,9 +181,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
