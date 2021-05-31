@@ -23,8 +23,6 @@ Gourav Gupta
 <td>
  <p align="center">
     | Quick View | Slide View | Category Wise Product Compare Wordpress |
-	
-	Description:- HEllo
   </p>
 </td>
 </tr>
