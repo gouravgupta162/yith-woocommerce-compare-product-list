@@ -29,7 +29,6 @@
 <details open>
   <summary>Table of Contents</summary>
   <ol>
-	<li><a href="#about-author">About Author</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -49,6 +48,7 @@
 	  </ul>
 	</li>
     <li><a href="#license">License</a></li>
+	<li><a href="#about-author">About Author</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#change-log">Change Log</a></li>
   </ol>
@@ -101,11 +101,6 @@ To get a local copy up and running follow these simple example steps.
 ## Shortcode 
 
 - [yith_woocompare_model_list_button]
-
-<!-- LICENSE -->
-## License 
-					   
-Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE](http://www.gnu.org/licenses/gpl-3.0.html) for more information.
 
 ## About Author
 
@@ -203,6 +198,10 @@ Project Link: [https://github.com/gouravgupta162/yith-woocommerce-compare-produc
 
 Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more details.
 
+<!-- LICENSE -->
+## License 
+					   
+Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE](http://www.gnu.org/licenses/gpl-3.0.html) for more information.
 
 ## Change Log
 
