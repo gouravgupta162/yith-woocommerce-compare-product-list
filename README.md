@@ -20,7 +20,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details close>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
 	<li><a href="#about-author">About Author</a></li>
