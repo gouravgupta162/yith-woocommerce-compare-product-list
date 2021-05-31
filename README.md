@@ -9,6 +9,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
+<a href="https://www.youtube.com/c/GouravGuptaOfficial">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=GouravGuptaOfficial&key="/>
+</a>
+
 <p align="center">
   <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">
     <img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
