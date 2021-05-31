@@ -48,7 +48,6 @@
 		<li><a href="#shortcode">Shortcode</a></li>
 	  </ul>
 	</li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#change-log">Change Log</a></li>
@@ -102,19 +101,6 @@ To get a local copy up and running follow these simple example steps.
 ## Shortcode 
 
 - [yith_woocompare_model_list_button]
-
- 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 <!-- LICENSE -->
 ## License 
