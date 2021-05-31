@@ -21,18 +21,7 @@
   </p>
 </td>
 </tr>
-</table>
-<p align="center">
-  <a href="#yith-woocommerce-compare-product-list">
-    <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s88-c-k-c0x00ffffff-no-rj" alt="Logo"  >
-  </a>
-
-  <h3 align="center">YITH Woocommerce Compare Product List</h3>
-
-  <p align="center">
-    | Quick View | Slide View | Category Wise Product Compare Wordpress |
-  </p>
-</p>
+</table> 
 
 
 
