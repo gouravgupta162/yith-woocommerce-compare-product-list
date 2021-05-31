@@ -112,6 +112,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="#"><img alt="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+<a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft sql server&logoColor=white"/></a>
 
 **Author Cross Platform Skills**
 
