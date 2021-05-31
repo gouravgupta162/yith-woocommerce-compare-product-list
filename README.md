@@ -25,7 +25,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="close">
   <summary>Table of Contents</summary>
   <ol>
 	<li><a href="#about-author">About Author</a></li>
