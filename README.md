@@ -55,6 +55,72 @@
   </ol>
 </details>
 
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
+
+The WSS YITH WC Compare Product List add-on lets your customers allow to quick view there compare product list based on category wise. It will working only with YITH Woocommerce Compare plugin.
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should element DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I was created this add-on/plugin which is compatiable with YITH Woocommerce Compare and show list of products which user already added in compare list.
+
+
+### Built With
+
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [Wordpress](https://wordpress.com/)
+* [Woocommerce](https://woocommerce.com/)
+* [YITH Woocommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+ 
+
+### Installation
+
+1. Just Download and Install in wordpress plugin.
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+1. Just Download, Install and activate Requirements plugins and after that activate WSS YITH WC Compare Product List plugin/add-on.
+2. Use shortcode where ever you need.
+ 
+## Shortcode 
+
+- [yith_woocompare_model_list_button]
+
+ 
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- LICENSE -->
+## License 
+					   
+Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE](http://www.gnu.org/licenses/gpl-3.0.html) for more information.
+
 ## About Author
 
 <img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
@@ -141,71 +207,6 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 
 <a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="steam" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-
-The WSS YITH WC Compare Product List add-on lets your customers allow to quick view there compare product list based on category wise. It will working only with YITH Woocommerce Compare plugin.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I was created this add-on/plugin which is compatiable with YITH Woocommerce Compare and show list of products which user already added in compare list.
-
-
-### Built With
-
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Wordpress](https://wordpress.com/)
-* [Woocommerce](https://woocommerce.com/)
-* [YITH Woocommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
- 
-
-### Installation
-
-1. Just Download and Install in wordpress plugin.
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-1. Just Download, Install and activate Requirements plugins and after that activate WSS YITH WC Compare Product List plugin/add-on.
-2. Use shortcode where ever you need.
- 
-## Shortcode 
-
-- [yith_woocompare_model_list_button]
-
- 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- LICENSE -->
-## License 
-					   
-Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE](http://www.gnu.org/licenses/gpl-3.0.html) for more information.
- 
 
 <!-- CONTACT -->
 ## Contact
