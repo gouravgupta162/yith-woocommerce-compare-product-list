@@ -11,7 +11,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/gouravgupta162/yith-woocommerce-compare-product-list#best-readme-template">
-    <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s176-c-k-c0x00ffffff-no-rj" alt="Logo"  >
+    <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s176-c-k-c0x00ffffff-no-rj" alt="Logo" width="80" height="80"  >
+    <img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
   </a>
 
   <h3 align="center">YITH Woocommerce Compare Product List</h3>
@@ -149,8 +150,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE](http://www.gnu.o
 
 <!-- CONTACT -->
 ## Contact
-
-<img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
 
 Gourav Gupta - [@gouravgofficial](https://twitter.com/gouravgofficial) - gouravgupta162@gmail.com
 
