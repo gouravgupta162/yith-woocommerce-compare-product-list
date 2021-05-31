@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <table border="0" align="center">
 <tr>
-<td rowspan="2">
+<td>
 <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s88-c-k-c0x00ffffff-no-rj" alt="Logo"  >
 </td>
 <td>
@@ -15,6 +15,10 @@
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
+Gourav Gupta
+</td>
 <td>
  <p align="center">
     | Quick View | Slide View | Category Wise Product Compare Wordpress |
@@ -186,7 +190,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 
 **Freelancing**
 
-<a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="steam" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
+<a href="https://www.upwork.com/freelancers/~01d2123e60c93d83a1"><img alt="upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=ffffff"/></a>
 
 
 <!-- CONTACT -->
