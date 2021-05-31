@@ -11,7 +11,10 @@
 <br />
 
 <a href="https://www.youtube.com/c/GouravGuptaOfficial">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=GouravGuptaOfficial&key="/>
+ <img alt="youtube subscribers" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:gouravgupta162@gmail.com">
+ <img alt="youtube subscribers" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <p align="center">
