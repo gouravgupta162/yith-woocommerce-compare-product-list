@@ -5,7 +5,7 @@
 
 
 <!-- PROJECT LOGO -->
-<table border="1">
+<table border="0" align="center">
 <tr>
 <td rowspan="2">
 <img src="https://yt3.ggpht.com/ytc/AAUvwng0-Yw2Z6hbdmoF2b8OBJU7pctnS0zOIwy7mdXV5g=s88-c-k-c0x00ffffff-no-rj" alt="Logo"  >
