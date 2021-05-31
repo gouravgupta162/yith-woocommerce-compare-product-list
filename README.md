@@ -54,6 +54,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#change-log">Change Log</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -158,7 +159,7 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 
 ## Change Log
 
-#v1.0.0
+# v1.0.0
 
 - Original release
 
