@@ -74,7 +74,7 @@ I am a Professional Full Stack Web Developer (Wordpress, Codeigniter, C#.NET, PH
 
 <a target="_blank" href="mailto:gouravgupta162@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/c/GouravGuptaOfficial"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a target="_blank" href="[linkedin]"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/gouravgupta162/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.facebook.com/gouravgupta162/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/gouravguptaofficial/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a target="_blank" href="https://twitter.com/gouravgofficial"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -250,10 +250,6 @@ Please see https://www.upwork.com/freelancers/~01d2123e60c93d83a1 for more detai
 [issues-url]: https://github.com/gouravgupta162/yith-woocommerce-compare-product-list/issues
 [license-shield]: https://img.shields.io/github/license/gouravgupta162/yith-woocommerce-compare-product-list.svg?style=for-the-badge
 [license-url]: https://github.com/gouravgupta162/yith-woocommerce-compare-product-list/blob/master/LICENSE.txt
-
-
-[linkedin](https://www.linkedin.com/in/gouravgupta162/){:target="_blank" rel="noopener"}
-
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gouravgupta162/ 
 [product-screenshot]: images/screenshot.png-->
