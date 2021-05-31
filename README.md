@@ -58,6 +58,8 @@
 
 ## About Author
 
+<img src="https://yt3.ggpht.com/91LjTiVj6NqgXKnfJhL3RZZdIJBtvG1yF-3pQbREayumRy41IT-P_3j-rmCqKMh0JgxG7sZKcBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"  >
+ 
 **Author Social**
 
 <a target="_blank" href="mailto:gouravgupta162@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
